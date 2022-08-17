@@ -1,4 +1,4 @@
-- Hi, I’m @OkwaroOuko
+- Hi, I’m @kelvinokumu
 - I’m interested in Android Development and DataScience.
 - I’m currently learning Data Science at DataCamp
 - I’m looking to collaborate on Android or Data Science projects.
